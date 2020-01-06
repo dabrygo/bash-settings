@@ -1,7 +1,7 @@
 # Try changes with `source ~/.bashrc`
 
 # Change command defaults
-alias du='du -h -d1'
+alias du='du -ah -d1 | sort -hr'
 alias ls='ls -va --color'
 
 # Vim
