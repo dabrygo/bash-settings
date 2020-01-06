@@ -1,5 +1,5 @@
 # Try changes with `source ~/.bashrc`
-alias ls='ls -a --color'
+alias ls='ls -va --color'
 
 # Vim
 ## Use as default editor
